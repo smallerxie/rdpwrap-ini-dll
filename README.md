@@ -1,12 +1,26 @@
 # About this repository "smallerxie/rdpwrap-ini"
 This repository is amied to offer the WORKING "rdpwrap.ini" patch files after testing by myself.
 
-# How to replace your "rdpwrap.ini" file.
+# How to replace your "rdpwrap.ini" file
 1. Open CMD window with Administrator's right; 
 2. `net stop termservice`; 
 3. Copy the new "rdpwrap.ini" file to *%ProgramFiles%\RDP Wrapper* folder; 
 4. `net start termservice`; 
 5. If the above service(s) cannot restart, please reboot your windows.
+
+# How to use rdpwrap
+The official Github repository was closed by some reasons. Please use the backup package "RDPWrap-v1.6.2.zip" in my repository.
+
+## Files in "RDPWrap-v1.6.2" package:
+
+File name|Description
+---|---
+RDPWInst.exe | RDP Wrapper Library installer/uninstaller
+RDPCheck.exe | Local RDP Checker (you can check the RDP is working)
+RDPConf.exe | RDP Wrapper Configuration
+install.bat | Quick install batch file
+uninstall.bat | Quick uninstall batch file
+update.bat | Quick update batch file
 
 # Links:
 - Official GitHub repository for rdpwrap (might be closed):
