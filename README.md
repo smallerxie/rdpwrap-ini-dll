@@ -9,7 +9,7 @@ This repository is amied to offer the WORKING "rdpwrap.ini" patch files after te
 5. If the above service(s) cannot restart, please reboot your windows.
 
 # Links:
-- Official GitHub repository:
+- Official GitHub repository for rdpwrap (might be closed):
 https://github.com/stascorp/rdpwrap/
 - Official Telegram chat:
 https://t.me/rdpwrap
