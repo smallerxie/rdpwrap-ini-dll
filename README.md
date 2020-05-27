@@ -6,7 +6,7 @@ This repository is amied to offer the WORKING "rdpwrap.ini" patch files after te
 2. `net stop termservice`; 
 3. Copy the new "rdpwrap.ini" file to *%ProgramFiles%\RDP Wrapper* folder; 
 4. `net start termservice`; 
-5. If the above service(s) cannot restart, please reboot your windows. You can also **cd** (ChangeDir) to enter the "RDPWrap-v1.6.2" folder and run **`RDPWInst -r`** as Administrator.
+5. If the above service(s) cannot restart, please reboot your windows. You can also, in CMD window, **cd** (ChangeDir) to the "RDPWrap-v1.6.2" folder and run **`RDPWInst -r`** as Administrator.
 
 # How to use rdpwrap
 The official Github repository was closed by some reasons. Please use the backup package "RDPWrap-v1.6.2.zip" in my repository.
