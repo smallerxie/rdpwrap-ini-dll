@@ -18,9 +18,9 @@ File name|Description
 RDPWInst.exe | RDP Wrapper Library installer/uninstaller
 RDPCheck.exe | Local RDP Checker (you can check the RDP is working)
 RDPConf.exe | RDP Wrapper Configuration
-install.bat | Quick install batch file
-uninstall.bat | Quick uninstall batch file
-update.bat | Quick update batch file
+install.bat | Quick install batch file (run it as administrator)
+uninstall.bat | Quick uninstall batch file (run it as administrator)
+update.bat | Quick update batch file (run it as administrator)
 
 # Links:
 - Official GitHub repository for rdpwrap (might be closed):
