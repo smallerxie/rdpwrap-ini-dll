@@ -8,3 +8,8 @@ This repository is amied to offer the WORKING "rdpwrap.ini" patch files after te
 4. `net start termservice`; 
 5. If the above service(s) cannot restart, please reboot your windows.
 
+# Links:
+- Official GitHub repository:
+https://github.com/stascorp/rdpwrap/
+- Official Telegram chat:
+https://t.me/rdpwrap
