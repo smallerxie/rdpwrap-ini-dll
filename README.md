@@ -25,6 +25,7 @@ update.bat | Quick update batch file (run it as administrator)
 
 ## FAQ
 RDP Wrapper may be blocked or removed by Antivirus software including WindowsDefnder, please make sure you downloaded official release from my repository, then add the folder "%ProgramFiles%\RDP Wrapper" to antivirus exclusions. 
+
 Also try to isolate RDP Wrapper from other shared services by the command:
 >sc config TermService type= own
 
