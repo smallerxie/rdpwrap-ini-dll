@@ -28,3 +28,7 @@ update.bat | Quick update batch file (run it as administrator)
 https://github.com/stascorp/rdpwrap/
 - Official Telegram chat:
 https://t.me/rdpwrap
+- asmtron's RDP Wrapper & Autoupdate: 
+https://github.com/asmtron/rdpwrap
+- affinityv's repository INI-RDPWRAP: 
+https://github.com/affinityv/INI-RDPWRAP
