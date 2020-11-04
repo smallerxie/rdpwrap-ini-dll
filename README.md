@@ -32,7 +32,7 @@ RDP Wrapper may be blocked or removed by Antivirus software including WindowsDef
 Also try to isolate RDP Wrapper from other shared services by the command:
 >sc config TermService type= own
 
-# Links:
+# References:
 - Official GitHub repository for rdpwrap (might be closed):
 https://github.com/stascorp/rdpwrap/
 - Official Telegram chat:
