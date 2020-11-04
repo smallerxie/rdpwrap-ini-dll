@@ -12,7 +12,7 @@ The repository also offers the "termsrv.dll" file backed-up by myself on my Win1
 # How to use rdpwrap
 Please visit the official Github repository of [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap/).
 
-If the official Github repository is closed by some reasons, you can also use the backup package "RDPWrap-v1.6.2.zip" in my repository.
+If the official Github repository is closed by some reasons, you can also use the backup package "RDPWrap-v1.6.2.zip" in [my repository](https://github.com/smallerxie/rdpwrap-ini-dll/tree/master/RDP%20Wrapper%20Library).
 
 ## Files in "RDPWrap-v1.6.2" package:
 
