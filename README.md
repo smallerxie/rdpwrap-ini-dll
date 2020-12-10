@@ -1,3 +1,5 @@
+中文教程请移步：[https://blog.xieyc.com/multiuser-windows-remote-desktop/]
+
 # About this repository "smallerxie/rdpwrap-ini"
 This repository is amied to offer the really WORKING "rdpwrap.ini" patch files after the testing by myself.
 The repository also offers the "termsrv.dll" file backed-up by myself on my Win10x64 (Education Version). 
