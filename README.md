@@ -1,6 +1,8 @@
 # About this repository "smallerxie/rdpwrap-ini"
 This repository is amied to offer the really WORKING "rdpwrap.ini" patch files after the testing by myself.
-The repository also offers the "termsrv.dll" file backed-up by myself on my Win10x64 (Education Version). If you cannot use rdpwrap after Windows Update, you may try to rollback to an earlier version of "termsrv.dll" as a secondary choice.
+The repository also offers the "termsrv.dll" file backed-up by myself on my Win10x64 (Education Version). 
+
+If you cannot use rdpwrap after Windows Update, you may try to rollback to an earlier version of "termsrv.dll" (normally in C:\Windows\System32) as a secondary choice.
 
 # How to replace your "rdpwrap.ini" file
 1. Open CMD window with Administrator's right; 
